@@ -1,0 +1,50 @@
+            .dealsDiv img{
+                height: 150px;
+                width: 320px;
+            }
+
+            .dealsDiv{
+                border: 0.5px solid grey;
+                border-radius: 5px;
+                padding: 5px;
+                margin: 5px;
+                width: 330px;
+                height: auto;
+                background-color: white;
+            }
+
+            .dealsDiv button{
+                margin: 0 auto;
+                display: block;
+            }
+
+            .bibidi{
+                color: white;
+            }
+
+            .knto{
+                margin-top: 0.5rem !important;
+                margin-bottom: 1rem !important;
+            }
+
+            .moad{
+                /* margin-left: 20rem; */
+                /* margin-right: 20rem; */
+            }
+            .HASH {
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .ios-circle{
+                font-size: 2em;
+                color: green;
+                margin-right: 20px;
+            }
+
+            .timex{
+                font-size: 2em;
+            }
+            .card{
+                margin-top: 10px;
+            }
